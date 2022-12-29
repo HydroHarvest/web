@@ -1,2 +1,5 @@
-# web
-Webpage for Terraforma 
+# Terraforma
+
+## Run locally
+`npm i`
+`npm run dev`
