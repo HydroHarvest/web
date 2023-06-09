@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Plate Gothic";
-  src: url('fonts/Copperplate Gothic Bold Regular.ttf') format('truetype');
+  src: url('../fonts/Copperplate Gothic Bold Regular.ttf') format('truetype');
 }
 
 body {
