@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Plate Gothic";
+  src: url('fonts/Copperplate Gothic Bold Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Plate Gothic', 'Roboto', sans-serif;
+  color: white;
+}
+
+a { color: white; }
+a:hover { font-style: italic; }
