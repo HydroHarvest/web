@@ -23,8 +23,6 @@
 
 .coming-soon > .content {
     width: 100vw;
-    height: 100vh;
-    max-height: 100vh;
     margin-top: 10vh;
     display: flex;
     flex-direction: column;
@@ -54,5 +52,5 @@
 }
 
 .coming-soon > .footer {
-    margin-top: -21.5vh;
+    margin-top: 15.5vh;
 }
